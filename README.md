@@ -1,2 +1,3 @@
-# Huawei.test_task
-Binary classifier: male&amp;female voice
+# Test task for Huawei project
+## Task: Binary classifier for male and female voice
+## The CHAINS corpus: fast speech
